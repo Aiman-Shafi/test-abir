@@ -1,0 +1,5 @@
+{
+    "domain": "dev-4qjh8kiabd6uqtn6.us.auth0.com",
+    "clientId": "L3jpuevvSTgWHniD7SbAIG6ZlkDgZc7R",
+    "scope": "read:current_user update:current_user_metadata"
+}
